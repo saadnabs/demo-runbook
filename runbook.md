@@ -2,7 +2,7 @@
 
 If you are running into issues with the regularity of your web application users, there are different things you can do
 
-## Troubleshooting
+## Troubleshooting
 
 First step is to better understand the standard behaviour and dig into what the current metrics are showing
 For this, the [following dashboard](https://se-demo.grafana.net/d/9ako2pfZz/web-app-observability-dashboard?orgId=1&refresh=5s) has already been setup to help you
